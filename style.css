@@ -1,0 +1,46 @@
+img{
+    margin-left: 35%;
+}
+#heading-text{
+    text-align: center;
+    font-size: xx-large;
+}
+#registation{
+    text-align: center;
+    font-size: x-large;
+}
+#dropdown{
+    width: 450px;
+    height: 40px;
+    border-left: transparent;
+    border-top: transparent;
+    border-right: transparent;
+}
+#dropdown2{
+    width: 450px;
+    height: 40px;
+    border-left: transparent;
+    border-top: transparent;
+    border-right: transparent;
+    margin-left: 55px;
+    
+}
+div{
+    width: 350px;
+    margin-left: 175px;
+}
+.text{
+    margin-right: 300px;
+    color: grey;
+}
+#name{
+    margin-top: 40px;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    height: 40px;
+}
+::placeholder{
+    font-size: large;
+
+}
